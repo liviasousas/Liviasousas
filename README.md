@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando fullstack
 - 📫 Contate-me no email: sousalivia119@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: Ela/Dela
 
 
 <div align="center">
