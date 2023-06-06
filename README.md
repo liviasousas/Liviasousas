@@ -1,6 +1,6 @@
 ## Olá eu sou a Livia
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como análista 
 - 🌱 Estudando fullstack
 - 📫 Contate-me no email: sousalivia119@gmail.com
 - 😄 Pronouns: Ela/Dela
