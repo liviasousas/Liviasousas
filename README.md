@@ -1,7 +1,7 @@
 ## Olá eu sou a Livia
 
 - 🔭 Hoje trabalho como análista 
-- 🌱 Estudando fullstack
+- 🌱 Estudando Análista de Dados
 - 📫 Contate-me no email: sousalivia119@gmail.com
 - 😄 Pronouns: Ela/Dela
 
